@@ -55,16 +55,6 @@ Analicé más de 1,000 registros de clientes para comparar los planes Surf y Ult
    ```
 4. Abre el notebook desde la carpeta `notebooks/`
 
-## Entregables recomendados
-- Notebook final en Jupyter
-- Gráficas clave o capturas de pantalla
-- Resumen ejecutivo breve o presentación
-- Recomendaciones de negocio
-
-## Notas
-- Reemplaza este texto con tu versión final cuando subas los archivos reales del proyecto.
-- Si el dataset original es privado o muy pesado, explica la fuente en `data/README.md`.
-
 ## Contacto
 **Julio César Rodríguez Tapia**  
 LinkedIn: https://www.linkedin.com/in/julio-rdz-6186951b5/  
