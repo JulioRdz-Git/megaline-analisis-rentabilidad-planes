@@ -1,3 +1,8 @@
-Place dataset files here only if they can be shared publicly.
+# Carpeta de datos
 
-If the original data cannot be uploaded, describe the source, fields, and limitations here.
+Coloca aquí el dataset del proyecto si puede compartirse públicamente.
+
+Si no puedes subir los datos por privacidad, tamaño o restricciones, explica aquí:
+- de dónde provienen los datos,
+- qué columnas principales contiene,
+- y cómo reproducir el análisis.

@@ -1,1 +1,7 @@
-Add presentations, PDFs, executive summaries, or exported dashboards here.
+# Carpeta de reportes
+
+Puedes guardar aquí:
+- presentaciones,
+- resúmenes ejecutivos,
+- PDF finales,
+- o documentos complementarios del proyecto.

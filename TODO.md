@@ -1,8 +1,8 @@
-# TODO for this repository
+# TODO para este repositorio
 
-- [ ] Rename/add your final notebook in `notebooks/`
-- [ ] Add screenshots to `images/`
-- [ ] Replace placeholder text in `README.md`
-- [ ] Add final conclusions and business recommendations
-- [ ] Add a link to Tableau / dashboard / presentation if applicable
-- [ ] Review grammar and consistency before publishing
+- [ ] Renombrar o agregar el notebook final en `notebooks/`
+- [ ] Agregar capturas de pantalla en `images/`
+- [ ] Reemplazar el texto placeholder en `README.md`
+- [ ] Agregar conclusiones finales y recomendaciones de negocio
+- [ ] Añadir enlace a Tableau, dashboard o presentación si aplica
+- [ ] Revisar ortografía, redacción y consistencia antes de publicar

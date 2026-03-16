@@ -1,71 +1,71 @@
-# Megaline – Telecom Profitability Analysis
+# Megaline – Análisis de rentabilidad de planes
 
-    Analysis of Megaline customer behavior to compare Surf vs. Ultimate plans and evaluate profitability opportunities.
+Análisis del comportamiento de clientes de Megaline para comparar los planes Surf y Ultimate y evaluar oportunidades de rentabilidad.
 
-    ---
+---
 
-    ## Project Overview
-    This repository contains the materials, analysis, and conclusions for the **Megaline – Telecom Profitability Analysis** project.
+## Descripción general
+Este repositorio contiene los materiales, análisis y conclusiones del proyecto **Megaline – Análisis de rentabilidad de planes**.
 
-    ## Business Problem
-    The company needs to understand which telecom plan is more profitable and how customer behavior differs by usage patterns.
+## Problema de negocio
+La empresa necesita entender qué plan de telefonía resulta más rentable y cómo cambian los patrones de consumo entre los usuarios según su tipo de plan.
 
-    ## Objectives
-    - Clean and validate customer, calls, messages, and internet usage data.
-- Compare monthly behavior between Surf and Ultimate users.
-- Test statistical hypotheses about revenue differences.
-- Identify which plan generates better business value.
+## Objetivos
+- Limpiar y validar datos de clientes, llamadas, mensajes y uso de internet.
+- Comparar el comportamiento mensual entre usuarios de Surf y Ultimate.
+- Probar hipótesis estadísticas sobre diferencias en ingresos.
+- Identificar qué plan genera mayor valor para el negocio.
 
-    ## Tools
-    Python, pandas, NumPy, matplotlib, seaborn, SciPy, Jupyter Notebook
+## Herramientas utilizadas
+Python, pandas, NumPy, matplotlib, seaborn, SciPy, Jupyter Notebook
 
-    ## Repository Structure
-    ```text
-    .
-    ├── data/
-    ├── images/
-    ├── notebooks/
-    ├── reports/
-    ├── src/
-    ├── .gitignore
-    ├── requirements.txt
-    └── README.md
-    ```
+## Estructura del repositorio
+```text
+.
+├── data/
+├── images/
+├── notebooks/
+├── reports/
+├── src/
+├── .gitignore
+├── requirements.txt
+└── README.md
+```
 
-    ## Suggested Workflow
-    1. Data cleaning and validation
-    2. Exploratory analysis
-    3. Visualizations and business insights
-    4. Conclusions and recommendations
+## Flujo de trabajo sugerido
+1. Limpieza y validación de datos
+2. Análisis exploratorio
+3. Visualizaciones e insights de negocio
+4. Conclusiones y recomendaciones
 
-    ## Suggested Key Findings
-    - Customer usage patterns differ significantly between plans.
-- Monthly revenue can vary depending on overage behavior and plan fit.
-- The analysis supports pricing and segmentation decisions.
+## Posibles hallazgos
+- Los patrones de uso cambian de forma importante entre ambos planes.
+- El ingreso mensual puede variar según el ajuste entre plan contratado y consumo real.
+- El análisis ayuda a tomar decisiones de segmentación, precios y rentabilidad.
 
-    ## Portfolio Summary
-    Suggested wording based on your current GitHub profile README: analyzed 1,000+ customer records comparing Surf vs. Ultimate plans and highlighted a 12% ROI improvement opportunity through segmentation and pricing optimization.
+## Resumen para portafolio
+Analicé más de 1,000 registros de clientes para comparar los planes Surf y Ultimate, detectar diferencias de consumo y encontrar oportunidades de optimización de ingresos mediante segmentación y análisis estadístico.
 
-    ## How to Run
-    1. Clone the repository
-    2. Create and activate a virtual environment
-    3. Install dependencies:
-       ```bash
-       pip install -r requirements.txt
-       ```
-    4. Open the notebook from the `notebooks/` folder
+## Cómo ejecutar el proyecto
+1. Clona este repositorio
+2. Crea y activa un entorno virtual
+3. Instala las dependencias:
+   ```bash
+   pip install -r requirements.txt
+   ```
+4. Abre el notebook desde la carpeta `notebooks/`
 
-    ## Deliverables to Include
-    - Final Jupyter notebook
-    - Key charts or screenshots
-    - Short executive summary or presentation
-    - Business recommendations
+## Entregables recomendados
+- Notebook final en Jupyter
+- Gráficas clave o capturas de pantalla
+- Resumen ejecutivo breve o presentación
+- Recomendaciones de negocio
 
-    ## Notes
-    - Replace this README text with your final version once you upload the real project files.
-    - If the original dataset is private or too large, explain the source in `data/README.md`.
+## Notas
+- Reemplaza este texto con tu versión final cuando subas los archivos reales del proyecto.
+- Si el dataset original es privado o muy pesado, explica la fuente en `data/README.md`.
 
-    ## Contact
-    **Julio César Rodríguez Tapia**  
-    LinkedIn: add your project or profile link here  
-    Email: add your contact email here
+## Contacto
+**Julio César Rodríguez Tapia**  
+LinkedIn: https://www.linkedin.com/in/julio-rdz-6186951b5/  
+Correo: julio_rdz117@outlook.com
